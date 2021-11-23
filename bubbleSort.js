@@ -1,3 +1,4 @@
+//冒泡
 function bubbleSort(list){
   let flag = true;
   for(let i=1; i< list.length && flag; i++){
